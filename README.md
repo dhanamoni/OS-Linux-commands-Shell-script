@@ -688,7 +688,8 @@ fi
 $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
-##OUTPUT
+
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/b24eb56c-c19f-4e02-bc45-11f20f5cbede)
 
 
@@ -739,7 +740,7 @@ fi
 $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/b01445b3-9206-4083-af24-4d1cfc2502d4)
 
 
