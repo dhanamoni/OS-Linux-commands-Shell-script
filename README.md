@@ -1148,10 +1148,11 @@ done
 set +x
 ```
 ## OUTPUT
- ./argshift.sh 1 2 3
  ![image](https://github.com/user-attachments/assets/22c0ccff-9fde-4e3a-a259-da97c8afbd71)
 
- 
+~~~
+./argshift.sh 1 2 3
+~~~ 
 cat > nc.awk
 ```bash
 BEGIN{}
